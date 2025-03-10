@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laokaow
+- 👋 Hi, I’m @laokaow
 - 👀 I’m interested in Travel, Cultures, Geography, 
 - 🌱 I’m currently learning SQL, Java
 - 💞️ I’m looking to collaborate on Learning
