@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @laokaow
-- 👀 I’m interested in Travel, Cultures, Geography, 
-- 🌱 I’m currently learning SQL, Java
-- 💞️ I’m looking to collaborate on Learning
-- 📫 How to reach me DM me
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am currently learning the Thai language
+- 🌱 I’m currently learning any and everything
 
 <!---
 Laokaow/Laokaow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
